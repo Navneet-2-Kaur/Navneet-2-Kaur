@@ -1,12 +1,11 @@
-###Navneet Kaur ✨ 
-##Software Developer 
-<iframe src="https://giphy.com/embed/57nf4oyyMmZ2L9QqJN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gracetea-57nf4oyyMmZ2L9QqJN">via GIPHY</a></p>
+<h1> Navneet Kaur ✨</h1> 
+<br>
+<p>Software Developer </p>
 
-
+![image](https://github.com/Navneet-2-Kaur/Navneet-2-Kaur/assets/139146318/99fb59ba-f67f-4502-bddc-f0e559abc14c)
 
 Experience in HTMl, CSS, & JavaScript. Currently learning Python.
 ALthough my formal education is in Molecular Biology, I discovered an interest for programming post graduate life and haven't looked back ever since. 
 
+![image](https://github.com/Navneet-2-Kaur/Navneet-2-Kaur/assets/139146318/c92e6cad-705a-4567-84b0-a92b277125cb)
 
-<iframe src="https://giphy.com/embed/ssq8oGi0pPO5rMLrEV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-girl-lofi-ssq8oGi0pPO5rMLrEV">via GIPHY</a></p><iframe 
-                                                                                                                                                                                                                                         src="https://giphy.com/embed/QyPgvXCIQ1nbCRDIXS" width="480" height="428" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-QyPgvXCIQ1nbCRDIXS">via GIPHY</a></p>
