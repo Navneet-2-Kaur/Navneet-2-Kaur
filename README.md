@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning **Python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/navneetkaursoftwaredev
+</h3>
 <p align="left">
 </p>
 
