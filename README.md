@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneet-2-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="navneet-2-kaur" /> </p>
 
-- ⚡ About me: **In 2022 I graduated with a Master's in Molecular Biology. Post graduate life I found myself more interested in programming than designing experiments in the lab. And so I began my journey into Software Development.**
+- ⚡ About me: **.**
 
 - 🌱 I’m currently learning **Python**
 
