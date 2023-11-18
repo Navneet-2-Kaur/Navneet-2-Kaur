@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneet-2-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="navneet-2-kaur" /> </p>
 
-- ⚡ About me: I am pursuing a career in software engineering. I first began my career as a reseach associate in a biotech startup. Working in biotech, I became curious about machine learning and bioinformatics and it's various applications in scientific research. As I began teaching myself programming and taking courses to expand my knowledge, I developed an invested interest in software engineering. ****
+- ⚡ About me: I am pursuing a career in software engineering. I first began my career as a research associate in a biotech startup. Working in biotech, I became curious about machine learning and bioinformatics and it's various applications in scientific research. As I began teaching myself programming and taking courses to expand my knowledge, I developed an invested interest in software engineering. ****
 
 - 🌱 I’m currently learning **Python**
 
